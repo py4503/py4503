@@ -1,5 +1,11 @@
 ![Image](https://github.com/user-attachments/assets/fdfbee8d-0705-4174-92b9-a95950b55d43)
 
+## 🌐 Connect with Me
+
+- **Portfolio Website:** [your-portfolio-url.com](https://your-portfolio-url.com)
+- **LeetCode Profile:** [YourUsername](https://leetcode.com/YourUsername/)
+- **CodeChef Profile:** [YourUsername](https://www.codechef.com/users/YourUsername)
+
 <!--
 **py4503/py4503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
