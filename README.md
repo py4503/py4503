@@ -3,12 +3,6 @@
 ## 🚀 Find Me Online
 
 <p align="left">
-  <a href="https://leetcode.com/u/Dn_res/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/users/stubborn_guy" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
-  </a>
   <a href="https://pratyush-portfolio-six.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-255,255,255?style=for-the-badge&logo=About.me&logoColor=white&color=0095ff" alt="Portfolio" />
   </a>
