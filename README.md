@@ -3,9 +3,6 @@
 ## 🚀 Find Me Online
 
 <p align="left">
-  <a href="https://pratyush-portfolio-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-255,255,255?style=for-the-badge&logo=About.me&logoColor=white&color=0095ff" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/pratyush-yaduwanshi-10072b295/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
